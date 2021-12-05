@@ -1,0 +1,74 @@
+[
+    {
+     "name": "Rita Schneider",
+     "avatar": "https://cdn.fakercloud.com/avatars/daykiine_128.jpg",
+     "jobtitle": "Investor Research Developer",
+     "city": "Redding",
+     "salary": "990.44",
+     "domain": "Liaison",
+     "id": "1"
+    },
+    {
+     "name": "Alejandro Anderson",
+     "avatar": "https://cdn.fakercloud.com/avatars/balakayuriy_128.jpg",
+     "jobtitle": "Internal Integration Strategist",
+     "city": "DeSoto",
+     "salary": "803.90",
+     "domain": "Facilitator",
+     "id": "2"
+    },
+    {
+     "name": "Margarita Strosin",
+     "avatar": "https://cdn.fakercloud.com/avatars/ariffsetiawan_128.jpg",
+     "jobtitle": "Customer Markets Administrator",
+     "city": "Bend",
+     "salary": "868.55",
+     "domain": "Director",
+     "id": "3"
+    },
+    {
+     "name": "Kristine Hand",
+     "avatar": "https://cdn.fakercloud.com/avatars/andrea211087_128.jpg",
+     "jobtitle": "Internal Factors Administrator",
+     "city": "Burleson",
+     "salary": "685.04",
+     "domain": "Assistant",
+     "id": "4"
+    },
+    {
+     "name": "Patti Leuschke",
+     "avatar": "https://cdn.fakercloud.com/avatars/lonesomelemon_128.jpg",
+     "jobtitle": "Human Brand Administrator",
+     "city": "Schenectady",
+     "salary": "163.22",
+     "domain": "Manager",
+     "id": "5"
+    },
+    {
+     "name": "Dr. Lindsay Aufderhar",
+     "avatar": "https://cdn.fakercloud.com/avatars/ManikRathee_128.jpg",
+     "jobtitle": "Direct Usability Designer",
+     "city": "Iowa City",
+     "salary": "779.75",
+     "domain": "Assistant",
+     "id": "6"
+    },
+    {
+     "name": "Courtney Will",
+     "avatar": "https://cdn.fakercloud.com/avatars/dorphern_128.jpg",
+     "jobtitle": "Future Applications Manager",
+     "city": "El Centro",
+     "salary": "934.34",
+     "domain": "Designer",
+     "id": "7"
+    },
+    {
+     "name": "Terence Armstrong",
+     "avatar": "https://cdn.fakercloud.com/avatars/vimarethomas_128.jpg",
+     "jobtitle": "Future Interactions Director",
+     "city": "Riverview",
+     "salary": "485.54",
+     "domain": "Specialist",
+     "id": "8"
+    }
+   ]
